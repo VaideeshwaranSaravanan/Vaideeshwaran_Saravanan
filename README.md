@@ -51,8 +51,8 @@ I’m currently building my public portfolio, enhancing my coding fluency throug
 ## 📫 Reach Me
 
 - 📧 Email: saravanv@uoguelph.ca | vaideeshwaransaravanan@gmail.com  
-- 💼 LinkedIn: [linkedin.com/in/vaideeshwaran](https://linkedin.com/in/vaideeshwaran)  
-- 📜 Google Scholar: [My Publications](https://scholar.google.ca/citations?user=O4IVApUAAAAJ)
+- 💼 LinkedIn: [linkedin.com/in/vaideeshwaran](https://linkedin.com/in/vaideeshwaran)
+- 🔗 ResearchGate: [Vaideeshwaran Saravanan](https://www.researchgate.net/profile/Vaideeshwaran-Saravanan-2)
 
 ---
 
