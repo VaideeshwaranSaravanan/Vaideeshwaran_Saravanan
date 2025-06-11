@@ -23,7 +23,7 @@ I’m currently building my public portfolio, enhancing my coding fluency throug
 - 👨‍💻 **Fake Social Media Account Detection** – Used SVM and Naïve Bayes to detect Instagram bots
 - ☁️ **IoT Image Detection with IBM Cloud** – Developed multi-sensor prototypes using Raspberry Pi and Python
 
-> 📄 View my [Research Publications](#) (JITST 2025, Springer 2024, Elsevier 2022)
+> 📄 Publications in (JITST 2025, Springer 2024, Elsevier 2022)
 
 ---
 
